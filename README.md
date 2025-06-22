@@ -1,4 +1,6 @@
 # Simple-Search-Engine
+Project developed for the *COMP 4321 Search Engines for Web and Enterprise Data* course at The Hong Kong University of Science and Technology (HKUST). 
+
 ### Requirements
 The code has been built using Python 3.12 but it should work with other versions as well.
 
